@@ -1,7 +1,7 @@
 {
   "name": "imgbbjs",
-  "version": "1.0.3",
-  "main": "index.js",
+  "version": "1.0.4",
+  "main": "lib/index.js",
   "repository": "https://github.com/f97/imgbb.git",
   "author": "Huynh Duc Khoan <huynhduckhoan@gmail.com>",
   "license": "MIT",
