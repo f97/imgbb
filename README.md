@@ -4,14 +4,11 @@ A lightweight Node.js module to easily upload images through imgbb API
 
 ## Usage
 
-> Install it with yarn or npm
 
 ```bash
 yarn add fsharedk
 npm install -save fsharedk
 ```
-
-> Usage 
 
 ```javascript
 const Imgbb = require('imgbbjs')
