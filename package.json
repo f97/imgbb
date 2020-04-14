@@ -1,0 +1,20 @@
+{
+  "name": "imgbbjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/f97/imgbb.git",
+  "author": "Huynh Duc Khoan <huynhduckhoan@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "jest": "^25.3.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.14.0"
+  }
+}
